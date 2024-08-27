@@ -2,7 +2,10 @@
 
 
 
-![Static Badge](https://img.shields.io/badge/javascript-green)
+![Static Badge](https://img.shields.io/badge/javascript-green) 
+![Static Badge](https://img.shields.io/badge/HTML-green)
+![Static Badge](https://img.shields.io/badge/CSS-green)
+![Static Badge](https://img.shields.io/badge/React-green)
 ![Static Badge](https://img.shields.io/badge/node-green)
 
 
