@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+
+![Static Badge](https://img.shields.io/badge/javascript-green)
+![Static Badge](https://img.shields.io/badge/node-green)
+
+
 <!--
 **TaimasovK/TaimasovK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
