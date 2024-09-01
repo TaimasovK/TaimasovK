@@ -10,7 +10,7 @@ JavaScript-разработчик
 🖥️ Смотрите мое портфолио на [Мое Портфолио.](http://github.com/taimasovk)[](http://github.com/taimasovk) * 
 ✉️ Вы можете связаться со мной по адресу [turbotakon@gmail.com] ](mailto:turbotakon@gmail.com)[](mailto:turbotakon@gmail.com) * 
 🧠 Я изучаю Яндекс Практикум * 
-🤝 Два высших технических образования (на 2-ом - красный диплом) - Алгоритмы данные ⁃ Структуры данных ⁃ HTML5, CSS3 , JS(ES5/6+) ⁃ Figma - BEM ⁃ Sass/Scss ⁃ Git , GitHub, ⁃ Node.js, NPM и так далее
+🤝 Два высших технических образования (на 2-ом - красный диплом) - Алгоритмы данные ⁃ Структуры данных ⁃ HTML5, CSS3 , JS(ES5/6+) ⁃ Figma - BEM ⁃ Sass/Scss ⁃ Git , GitHub, ⁃ Node.js, NPM и тп . 
 
 <a href="https://www.github.com/TaimasovK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TaimasovK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
